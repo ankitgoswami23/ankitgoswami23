@@ -3,6 +3,8 @@
 <!--
 **ankitgoswami23/ankitgoswami23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![my_info](https://github.com/ankitgoswami23/ankitgoswami23/blob/master/my_info.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
